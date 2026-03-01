@@ -5,9 +5,6 @@
 
 🌌 Passionate about building creative web experiences, games & AI-powered ideas.
 
-<h1 align="center">Hussein Ali</h1>
-<h3 align="center">Computer Engineering Student | AI • Games • Cinematic UI</h3>
-
 ---
 
 ## 🧠 Personal Philosophy

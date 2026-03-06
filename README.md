@@ -53,7 +53,7 @@ Strategic color mind-game (Green / Red)
 ## 🧠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,mongodb,postgres,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,mongodb,arduino" />
 </p>
 
 ---

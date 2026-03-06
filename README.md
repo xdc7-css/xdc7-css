@@ -85,4 +85,4 @@ Favorite song: Apocalypse – Cigarettes After Sex
 
 ---
 
-✨ I build things that look like they belong in the future.
+ god i’m not your strongest soldier

@@ -1,158 +1,139 @@
 <div align="center">
 
-# Hussein Ali
-
-### Software Engineer • Flutter Developer • UI/UX Designer
-
-Building thoughtful digital experiences where engineering meets design.
-
-<br>
-
-[Portfolio](https://rafiqart.tech) •
-[GitHub](https://github.com/xdc7-css) •
-[Instagram](https://instagram.com/203.9.7)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:D4AF37,100:0B1730&text=Hussein%20Ali&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20UI%20Designer&descAlignY=58"/>
 
 </div>
 
----
+<div align="center">
 
-# About
+# 👋 Hi, I'm Hussein Ali
 
-I'm a Computer Engineering student passionate about building products that people genuinely enjoy using.
+### Software Engineer • Flutter Developer • UI/UX Designer
 
-My interests span software engineering, mobile development, interface design, and intelligent systems. I enjoy transforming complex ideas into elegant, intuitive experiences with a strong focus on performance, simplicity, and visual craftsmanship.
+*"Crafting premium digital experiences that people love to use."*
 
----
-
-# Currently Building
-
-## 🕌 Rafiq
-
-A modern Islamic platform designed around clarity, beauty, and everyday usefulness.
-
-Core features include:
-
-- Quran Experience
-- Prayer Times
-- Home Screen Widgets
-- Qibla Compass
-- Adhkar
-- Tasbeeh
-- Khatmah Tracker
-- Beautiful Design System
-
----
-
-# Technologies
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=dart,cpp,python,js,html,css"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,tailwind,vite"/>
-
-</p>
-
-### Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=firebase,mongodb"/>
-
-</p>
-
-### Design
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
-
-</p>
-
----
-
-# Selected Projects
-
-### 🕌 Rafiq
-
-Premium Islamic mobile application built with Flutter.
-
-Focused on accessibility, elegant design, and everyday spiritual tools.
-
----
-
-### ☕ CAF CAFE
-
-Luxury coffee brand website with immersive UI.
-
----
-
-### 🎮 AI Hangman
-
-Game logic powered by intelligent word selection.
-
----
-
-### ⚽ Football Quiz
-
-Interactive football challenge with competitive gameplay.
-
----
-
-### 🎬 Cinematic Slider
-
-Modern web animation inspired by premium streaming platforms.
-
----
-
-# Philosophy
-
-> Great software is remembered by how it makes people feel, not by how many features it has.
-
----
-
-# GitHub Statistics
+</div>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xdc7-css&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1700&color=D4AF37&center=true&vCenter=true&width=850&lines=Flutter+Developer;React+Developer;UI%2FUX+Designer;Building+Rafiq+Islamic+Platform;AI+Enthusiast;Open+Source+Learner"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=xdc7-css&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Currently Building
+
+🕌 **Rafiq**
+
+A premium Islamic platform built with Flutter.
+
+✨ Features
+
+- 📖 Quran
+- 🕌 Prayer Times
+- 📿 Tasbeeh
+- 🧭 Qibla
+- 📅 Khatmah Tracker
+- 🏠 Home Widgets
+- 🌙 Modern Islamic Design
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,tailwind,js,python,firebase,mongodb,git,github,vscode,figma,androidstudio"/>
+
+</p>
+
+---
+
+# 🌎 Portfolio
+
+<p align="center">
+
+<a href="https://rafiqart.tech">
+<img src="https://img.shields.io/badge/Visit-Portfolio-D4AF37?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/xdc7-css">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/203.9.7">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🕌 Rafiq | Premium Islamic Platform |
+| ☕ CAF CAFE | Luxury Coffee Brand |
+| 🎮 AI Hangman | AI Word Game |
+| ⚽ Football Quiz | Interactive Football Challenge |
+| 🎬 Cinematic Slider | Premium UI Showcase |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=xdc7-css&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=xdc7-css&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdc7-css&layout=compact&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdc7-css&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# Let's Build Something Meaningful
+# 🐍 Contribution Snake
 
-I'm always interested in thoughtful products, ambitious ideas, and challenging engineering problems.
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/xdc7-css/xdc7-css/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Publish Rafiq on Google Play
+- 🌍 Reach 10K+ users
+- ⭐ Contribute to Open Source
+- 📱 Build premium Flutter apps
+- 🎨 Improve design systems
+- 🤖 Learn advanced AI
+
+---
+
+# 💭 Philosophy
+
+> "People don't remember software because it had more features.
+> They remember how it made them feel."
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by.
+### Thanks for visiting 🤍
+
+<img src="https://komarev.com/ghpvc/?username=xdc7-css&style=for-the-badge&color=D4AF37"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:D4AF37,100:0B1730"/>

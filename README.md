@@ -8,22 +8,22 @@
 
 <br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=Building+Premium+Mobile+Experiences;Crafting+Pixel-Perfect+Interfaces;Engineering+Scalable+Architectures;Code+with+Purpose.+Design+with+Passion." alt="Typing Animation" />
+<!-- Dynamic Subheader Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=Building+Premium+Mobile+Experiences;Crafting+Pixel-Perfect+Interfaces;Engineering+Scalable+Architectures;Code+with+Purpose.+Design+with+Passion." alt="Typing Animation" />
 
 <br/>
 <br/>
 
-<!-- Social Badges -->
+<!-- Social Action Badges -->
 <a href="https://github.com/xdc7-css" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/hussein-ali-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/xdc7_css" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hussein-ali-37556633b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/203.9.7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:hussein@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 <br/>
 
-<!-- Visitor Counter -->
+<!-- Profile Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=xdc7-css&color=D4AF37&style=for-the-badge&label=PROFILE+VISITORS" />
 
 <br/>
@@ -37,7 +37,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT SECTION                           -->
+<!--                        ABOUT ME SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -46,12 +46,11 @@
 
 **Software Engineer & Mobile Architect from Basrah, Iraq 🇮🇶**
 
-I architect high-performance mobile applications and resilient cloud backends with obsessive attention to detail. 
-From micro-interactions and smooth 60fps animations to offline-first data synchronization — I build products that combine luxury design aesthetics with robust engineering.
+I design and build high-performance mobile applications and resilient backend systems with obsessive attention to detail. 
+Driven by Apple, Linear, and Vercel design principles — I blend luxury aesthetics, fluid 60fps animations, and offline-first engineering to deliver software that feels extraordinary.
 
 <br/>
 
-<!-- Skill Badges -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -72,28 +71,16 @@ From micro-interactions and smooth 60fps animations to offline-first data synchr
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECT                           -->
+<!--                     TECH STACK OVERVIEW                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🚀 Currently Building
+### 💻 Core Tech Stack
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1730,50:0D1E3C,100:0B1730&height=140&section=header&text=RAFIQ&fontSize=48&fontColor=D4AF37&desc=Premium+Islamic+Platform&descSize=18&descAlignY=65&animation=fadeIn&duration=1800&stroke=D4AF37&strokeWidth=1" width="100%" />
-
-<br/>
-
-A comprehensive, offline-first Islamic companion app built with Flutter — featuring complete Quran audio streaming, precise Prayer Times, dynamic Qibla compass, Khatmah tracking, custom daily Azkar notifications, and home screen widgets.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Clean_Architecture-D4AF37?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,html,css,sass,tailwindcss,vite&perline=6" />
 
 </div>
 
@@ -106,40 +93,142 @@ A comprehensive, offline-first Islamic companion app built with Flutter — feat
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     EXPERTISE SECTION                          -->
+<!--                   FLUTTER & MOBILE ENGINEERING                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🛠️ Tech Stack & Expertise
+### 📱 Flutter & Mobile Architecture
 
 <br/>
 
-<!-- Frontend & Mobile -->
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,html,css,sass,tailwindcss,vite&perline=6" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Provider-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/GoRouter-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Hive-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Rive-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Lottie-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Offline_First-D4AF37?style=flat-square&logoColor=white" />
 
 <br/>
 <br/>
 
-<!-- Backend & Database -->
+<img src="https://img.shields.io/badge/Clean_Architecture-D4AF37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Repository_Pattern-D4AF37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/State_Management-D4AF37?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0B1730,50:D4AF37,100:0B1730&height=4&section=separator" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        BACKEND ENGINEERING                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⚙️ Backend & Infrastructure
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,firebase,supabase,postgres,docker&perline=6" />
 
 <br/>
 <br/>
 
-<!-- Design & Tools -->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0B1730,50:D4AF37,100:0B1730&height=4&section=separator" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       AI & CREATIVE TOOLS                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🎨 AI & Creative Tools
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,androidstudio&perline=6" />
 
 <br/>
 <br/>
 
-<!-- Architectural Focus -->
-<img src="https://img.shields.io/badge/Clean_Architecture-D4AF37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Repository_Pattern-D4AF37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/State_Management-D4AF37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Offline_First-D4AF37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_APIs-D4AF37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CI/CD-D4AF37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ML_Kit-FFCA28?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-D4AF37?style=flat-square" />
+<img src="https://img.shields.io/badge/Luxury_UI/UX-D4AF37?style=flat-square" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0B1730,50:D4AF37,100:0B1730&height=4&section=separator" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECT - RAFIQ                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🚀 Centerpiece Project Showcase
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1730,50:0D1E3C,100:0B1730&height=150&section=header&text=RAFIQ&fontSize=52&fontColor=D4AF37&desc=Premium+Islamic+Platform+·+Built+with+Flutter&descSize=18&descAlignY=65&animation=fadeIn&duration=1800&stroke=D4AF37&strokeWidth=1" width="100%" />
+
+<br/>
+
+**Rafiq** is a flagship offline-first Islamic companion platform built with Flutter, designed to offer an uncompromisingly elegant, distraction-free user experience.
+
+<br/>
+
+<img src="https://img.shields.io/badge/📖_Quran-Complete_Audio_%26_Text-D4AF37?style=flat-square" />
+<img src="https://img.shields.io/badge/🕋_Prayer_Times-Precise_Geo_Calculations-0B1730?style=flat-square" />
+<img src="https://img.shields.io/badge/🧭_Qibla-Realtime_Compass-02569B?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/📿_Tasbeeh-Digital_Counter-D4AF37?style=flat-square" />
+<img src="https://img.shields.io/badge/📚_Khatmah-Reading_Tracker-0B1730?style=flat-square" />
+<img src="https://img.shields.io/badge/📱_Widgets-Home_Screen_Integration-02569B?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/⚡_Offline_First-Local_Persistence-D4AF37?style=flat-square" />
+<img src="https://img.shields.io/badge/💎_Premium_UI-Apple_Inspired_Design-0B1730?style=flat-square" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Clean_Architecture-D4AF37?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logoColor=white" />
 
 </div>
 
@@ -205,27 +294,29 @@ A comprehensive, offline-first Islamic companion app built with Flutter — feat
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   PINNED REPOSITORIES                           -->
+<!--                       SPOTIFY CORNER 🎵                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 📌 Featured Repositories
+### 🎵 Spotify Corner
 
 <br/>
 
-<a href="https://github.com/xdc7-css/rafiq" target="_blank">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xdc7-css&repo=rafiq&theme=chartreuse-dark&bg_color=0B1730&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" />
+<a href="https://open.spotify.com/playlist/5V4dP5HWRhMZ3HKq4DUq3B" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-My_Development_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-<a href="https://github.com/xdc7-css/flutter-ui-kit" target="_blank">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xdc7-css&repo=flutter-ui-kit&theme=chartreuse-dark&bg_color=0B1730&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" />
-</a>
-<a href="https://github.com/xdc7-css/fastapi-backend" target="_blank">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xdc7-css&repo=fastapi-backend&theme=chartreuse-dark&bg_color=0B1730&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" />
-</a>
-<a href="https://github.com/xdc7-css/ai-tools" target="_blank">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xdc7-css&repo=ai-tools&theme=chartreuse-dark&bg_color=0B1730&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" />
-</a>
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/🎧_Focus_%26_Flow-Deep_Work-0B1730?style=flat-square" />
+<img src="https://img.shields.io/badge/🎵_Curated_Tracks-Coding_Session-D4AF37?style=flat-square" />
+
+<br/>
+<br/>
+
+*"Music is part of my development workflow — fueling focus, creativity, and deep engineering sessions."*
 
 </div>
 
@@ -238,48 +329,18 @@ A comprehensive, offline-first Islamic companion app built with Flutter — feat
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TIMELINE                                   -->
+<!--                      CONNECT WITH ME                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🗺️ Engineering Journey
-
-<br/>
-
-```mermaid
-timeline
-    title Growth & Milestones
-    2022 : Programming Beginnings : Dart & Flutter Fundamentals
-    2023 : Mobile Product Development : Firebase & Backend Integrations
-    2024 : Software Architecture : Clean Architecture & State Management
-    2025 : Production Platforms : Rafiq Release & AI Open Source
-    2026 : Mobile Engineering Excellence : Scalable Systems & High Performance UI
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0B1730,50:D4AF37,100:0B1730&height=4&section=separator" width="100%" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🤝 Let's Connect & Collaborate
+### 🤝 Connect With Me
 
 <br/>
 
 <a href="https://github.com/xdc7-css" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/hussein-ali-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/xdc7_css" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hussein-ali-37556633b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/203.9.7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:hussein@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
